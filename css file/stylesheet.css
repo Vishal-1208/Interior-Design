@@ -1,0 +1,35 @@
+
+.mySlides {display:none;}
+.fa {
+  padding: 15px;
+  font-size: 85px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 8px;
+}
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
+.mySlides2 {display: none}
+
+.mySlides3 {display: none}
+.mySlides4 {display: none}
+.mySlides5 {display: none}
+.mySlides6 {display: none}
+
+#btn1{
+  position: absolute;
+    top: 70%;
+    left: 0%;
+    transform: translate(0%,0%);
+}
+
+#btn2{
+  position: absolute;
+    top: 70%;
+    right: 0%;
+    transform: translate(0%,0%);
+}
